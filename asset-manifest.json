@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sudhikshaMalla/static/css/main.f855e6bc.css",
+    "main.js": "/sudhikshaMalla/static/js/main.7853a544.js",
+    "static/js/787.7da95b79.chunk.js": "/sudhikshaMalla/static/js/787.7da95b79.chunk.js",
+    "static/media/logo.svg": "/sudhikshaMalla/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sudhikshaMalla/index.html",
+    "main.f855e6bc.css.map": "/sudhikshaMalla/static/css/main.f855e6bc.css.map",
+    "main.7853a544.js.map": "/sudhikshaMalla/static/js/main.7853a544.js.map",
+    "787.7da95b79.chunk.js.map": "/sudhikshaMalla/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7853a544.js"
+  ]
+}
